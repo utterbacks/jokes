@@ -28,6 +28,15 @@ function Info() {
 					categories of jokes to display.{" "}
 				</p>
 			</div>
+			<div className="text-center text-xs border border-gray-400 rounded shadow-lg mb-5 px-4 pb-1 bg-pink-100">
+				<p>
+					I do not necessarily share the same views and opinions as some of the
+					jokes found in this API's database. While I've done as much as
+					possible to prevent inappropriate jokes from being displayed, I cannot
+					control what gets marked as inappropriate by users that submit their
+					jokes on the API's website.
+				</p>
+			</div>
 		</div>
 	);
 }
